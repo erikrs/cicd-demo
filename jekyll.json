@@ -3,7 +3,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "mhausenblas/cicd-demo",
+      "image": "erikrs/cicd-demo",
       "network": "BRIDGE",
       "portMappings": [
         {
